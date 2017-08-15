@@ -1,0 +1,38 @@
+[
+  {
+    "description": "Test homepage buttons should check the page title is correct",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 70
+  },
+  {
+    "description": "Test homepage buttons should increase counter on \"Click Me\" button click",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 317
+  },
+  {
+    "description": "Test homepage buttons should decrease counter on \"Unclick Me\" button click",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 263
+  },
+  {
+    "description": "Test dynamic text updating should update field with entered value",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 2
+  }
+]
