@@ -5,7 +5,7 @@ var HtmlReporter = require('protractor-angular-screenshot-reporter');
 exports.config = {
   allScriptsTimeout: 11000,
   specs: [
-    './e2e/approach-one/**/*.e2e-spec.ts'
+    './e2e/web/*.e2e-spec.ts'
   ],
   capabilities: {
     'browserName': 'chrome'
