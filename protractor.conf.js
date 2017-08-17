@@ -13,7 +13,7 @@ exports.config = {
   resultJsonOutputFile: './reports/report.json',  
   directConnect: true,
   baseUrl: 'http://localhost:4200/',
-  framework: 'jasmine2',
+  framework: 'jasmine',
   jasmineNodeOpts: {
     showColors: true,
     defaultTimeoutInterval: 30000,
